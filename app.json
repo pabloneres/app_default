@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "default_app",
-    "slug": "default_app",
+    "slug": "blank-project",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -18,12 +18,12 @@
       "**/*"
     ],
     "ios": {
-      "bundleIdentifier": "com.integrada.app",
+      "bundleIdentifier": "com.testeapp.br",
       "supportsTablet": true,
       "googleServicesFile": "./ASSETS_SETUP/iOS/GoogleService-Info.plist"
     },
     "android": {
-      "package": "com.integrada.app",
+      "package": "com.testeapp.br",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
@@ -35,7 +35,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "c446a90a-bfa3-4793-9a55-a93717b7d255"
+        "projectId": "4dbdc39f-c02e-48f6-b3ff-5b310896def2"
       }
     },
     "plugins": [
@@ -48,6 +48,7 @@
           }
         }
       ]
-    ]
+    ],
+    "owner": "pabloneres"
   }
 }

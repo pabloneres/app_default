@@ -19,6 +19,7 @@
     "expo-dev-client": "~2.0.1",
     "expo-device": "^5.0.0",
     "expo-font": "^11.0.1",
+    "expo-splash-screen": "~0.17.5",
     "expo-status-bar": "~1.4.2",
     "expo-updates": "^0.15.6",
     "moment": "^2.29.4",
@@ -33,8 +34,7 @@
     "redux-logger": "^3.0.6",
     "redux-persist": "^6.0.0",
     "redux-thunk": "^2.4.2",
-    "sentry-expo": "^6.0.0",
-    "expo-splash-screen": "~0.17.5"
+    "sentry-expo": "^6.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
